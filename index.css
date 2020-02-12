@@ -124,7 +124,7 @@ margin: 2em 0;
 
 .twotofive{
     grid-column: 1/4;
-    grid-row: 2/6;
+    grid-row: 1/6;
 }
 
 .inset{
@@ -153,15 +153,33 @@ font-size: 3rem;
 font-weight: 600;
 }
 
+.smallTitle{
+    font-family: futura;
+    font-size: 1rem;
+    padding: 1em;
+}
+
+.medTitle{
+    font-size: 2em;
+    padding: 1em;
+    font-family: futura;
+}
+
 .bigTitle{
     font-size: 5rem;
     font-weight: 800;
     font-family: futura, sans-serif;
 }
 
+.Tright{
+text-align: right;
+}
+
 .header{
 grid-column: 1/4;
 grid-row: 1/2;
+    z-index: 1;
+    padding: 0 4rem;
 }
 
 .vertical-center{
@@ -189,4 +207,23 @@ grid-row: 1/2;
 .centerxy{
     align-self: center;
     justify-self: center;
+}
+
+.footer{
+    grid-column: 1/4;
+    background: #ddd;
+}
+
+.flexbox{
+    display: flex;
+    flex-flow: row-reverse wrap;
+    padding: 1em;
+}
+
+.logobg{
+    background: url(https://i.ibb.co/6sQx932/Philosophy.png);
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    background-position: center;
 }
