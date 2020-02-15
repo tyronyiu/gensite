@@ -1,12 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
-FN:Ty Yiu
-N:Yiu;Ty;;;
-TEL;TYPE=CELL:+49 1712230998
-EMAIL;TYPE=HOME:Tyronyiu@gmail.com
-EMAIL;TYPE=WORK:yiu@apov-labs.com
-EMAIL;TYPE=UNI:Tyiu2017@student.hult.edu
-ORG:APOV
-X-SOCIALPROFILE;type=instagram;x-user=overcast_vowel:http://instagram.com/overcasst_vowel
-X-SOCIALPROFILE;type=snapchat;x-user=Claudio4848:http://snapchat.com/add/claudio4848
+FN:Addon By Pluto
+N:Pluto;Addon By;;;
+TITLE:Diana Pluto
+PHOTO;TYPE=PNG;VALUE=URI:https://pasteboard.co/IUOFYCI.png
+TEL;TYPE=CELL:0172 7456429
+EMAIL;TYPE=WORK:info@addonbypluto.com
+ADR;TYPE=Showroom,PREF:;;Modecentrum M9, 1st floor, Room 187, Modering 9;22457 Hamburg
+LABEL;TYPE=Showroom,PREF:Modecentrum M9\n1st floor, Room 187\nModering 9\, 22457 Hamburg
+ADR;TYPE=Office,PREF:;;c/o APS Glass & Bar Supply GmbH, Obenhauptstrasse 1;22335 Hamburg
+LABEL;TYPE=Office,PREF:c/o APS Glass & Bar Supply GmbH\nObenhauptstrasse 1\,22335 Hamburg
+X-SOCIALPROFILE;type=instagram;x-user=addonbypluto:http://instagram.com/addonbypluto
 END:VCARD
